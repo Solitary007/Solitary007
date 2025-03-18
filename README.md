@@ -2,10 +2,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://learn.microsoft.com/pt-br/cpp/build/vscpp-step-0-installation?view=msvc-170)
-
 ![My Skills](https://skillicons.dev/icons?i=html)
 ![My Skills](https://skillicons.dev/icons?i=css)
-
 ![My Skills](https://skillicons.dev/icons?i=js)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huanan-spadotto/)
